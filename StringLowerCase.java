@@ -6,5 +6,6 @@ public class StringLowerCase {
 		String name = "Rajesh";
 		String name1 = name.toLowerCase();
 		System.out.println(name1);
+		System.out.println("*************");
 	}
 }
