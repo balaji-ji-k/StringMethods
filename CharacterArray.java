@@ -8,5 +8,6 @@ public class CharacterArray {
 				letter[0] + " " + letter[1] + " " + letter[2] + " " + letter[3] + " " + letter[4] + " " + letter[5]);
 		System.out.println(letter);
 		System.out.println("*******");
+		System.out.println("*******");
 	}
 }
